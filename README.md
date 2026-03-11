@@ -1,2 +1,2 @@
 # OOP-lessons-pedror
-All the lessons and homeworks of OOP classes
+As atividades estarão separadas por aula
